@@ -1,8 +1,8 @@
 package com.tns.ifet.day1;
 
-public class Dhanush {
+public class Logesh {
 
 	public static void main(String[] args) {
-		System.out.println("Dhanush Fullstack Developer");
+		System.out.println("Logesh Fullstack Developer");
 	}
 }
